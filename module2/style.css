@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(122, 220, 231);
+    text-align: center;
+    font: weight 500px;
+
+
+}
+.second{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    }
+
+    .video{
+        height: 700px;
+        width: 900px;
+    }
+    p{
+        font-size: 30px;
+    }
+    .third{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        }
+        .fourth{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            }
+            .first{
+                height: 500px;
+                width: auto;
+                display: flex;
+                margin: 10px;
+                justify-content: centre;
+
+            }
+            .sec.day h1{
+                
+                
+                
+            }
